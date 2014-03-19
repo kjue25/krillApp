@@ -1,0 +1,6 @@
+syntax: glob
+*.class
+*.DS_Store
+*.orig
+bin/*
+bin/krill/*.class
